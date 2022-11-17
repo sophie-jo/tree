@@ -1,0 +1,12 @@
+{ "name": "Root",
+  "children": [
+    {
+      "name": "aquatic_mammals",
+      "children": [
+        {
+          "name": "beaver", "value": 0}, {"name": "dolphin", "value": 0}, {"name": "otter", "value": 0}, {"name": "seal", "value": 0}, {"name": "whale", "value": 0}]},
+    {
+      "name": "fish",
+      "children": [
+        {
+          "name": "aquarium_fish", "value": 0}, {"name": "flatfish", "value": 0}, {"name": "ray", "value": 0}, {"name": "shark", "value": 0}, {"name": "trout", "value": 0}]}]}
